@@ -1,0 +1,48 @@
+.notice-board{
+    margin-top: 30px;
+    padding: 5px;
+    padding-bottom: 15px;
+    border-radius: 40px;
+    background: #0F2027;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #2C5364, #203A43, #0F2027);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #2C5364, #203A43, #0F2027); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.notice-board-title{
+    margin-top: 15px;
+    font: 30px 'Merienda One', Helvetica, sans-serif;
+    font-weight: bold; 
+    background: #C9D6FF;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #E2E2E2, #C9D6FF);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #E2E2E2, #C9D6FF); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.notice-board-title-small{
+    margin-top: 15px;
+    font: 20px 'Merienda One', Helvetica, sans-serif;
+    color: white;
+}
+.notice-board-subject-title-small{
+    margin-top: 5px;
+    font: 20px 'Merienda One', Helvetica, sans-serif;
+    color: white;
+}
+.notice{
+    margin-bottom: 100px;
+}
+hr.notice-board-title-underline {
+    border-top: 1px dashed aliceblue;
+}
+hr.notice-board-subject-underline {
+    border-top: 1px solid aliceblue;
+}
+.subject{
+    margin: 10px;
+    padding: 10px;
+    background: #1488CC;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #2B32B2, #1488CC);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #2B32B2, #1488CC); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.subject-sub-section{
+    margin: 2px;
+}
