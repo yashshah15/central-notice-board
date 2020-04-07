@@ -22,6 +22,10 @@
     font: 20px 'Merienda One', Helvetica, sans-serif;
     color: white;
 }
+.notice-board-title-very-small{
+    font: 14px 'Merienda One', Helvetica, sans-serif;
+    color: white;
+}
 .notice-board-subject-title-small{
     margin-top: 5px;
     font: 20px 'Merienda One', Helvetica, sans-serif;
